@@ -25,56 +25,56 @@
       "url": "https://raw.githubusercontent.com/bahalshik/improve-update/main/vtk_imp_steel.jar",
       "sha256": "PUT_REAL_SHA256_HERE",
       "required": true
-    }
+    },
     {
       "mod_id": "blacksmithprofession-1.0.0",
       "file": "blacksmithprofession-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/bahalshik/improve-update/main/blacksmithprofession-1.0.0.jar",
       "sha256": "PUT_REAL_SHA256_HERE",
       "required": true
-    }
+    },
     {
       "mod_id": "builderprofessions-1.0.1",
       "file": "builderprofessions-1.0.1.jar",
       "url": "https://raw.githubusercontent.com/bahalshik/improve-update/main/builderprofessions-1.0.1.jar",
       "sha256": "PUT_REAL_SHA256_HERE",
       "required": true
-    }
+    },
     {
       "mod_id": "clan",
       "file": "clan.jar",
       "url": "https://raw.githubusercontent.com/bahalshik/improve-update/main/clan.jar",
       "sha256": "PUT_REAL_SHA256_HERE",
       "required": true
-    }
+    },
      {
       "mod_id": "dna",
       "file": "dna.jar",
       "url": "https://raw.githubusercontent.com/bahalshik/improve-update/main/dna.jar",
       "sha256": "PUT_REAL_SHA256_HERE",
       "required": true
-    }
+    },
     {
       "mod_id": "f10",
       "file": "f10.jar",
       "url": "https://raw.githubusercontent.com/bahalshik/improve-update/main/f10.jar",
       "sha256": "PUT_REAL_SHA256_HERE",
       "required": true
-    }
+    },
      {
       "mod_id": "f9",
       "file": "f9.jar",
       "url": "https://raw.githubusercontent.com/bahalshik/improve-update/main/f9.jar",
       "sha256": "PUT_REAL_SHA256_HERE",
       "required": true
-    }
+    },
     {
       "mod_id": "imp_auth",
       "file": "imp_auth.jar",
       "url": "https://raw.githubusercontent.com/bahalshik/improve-update/main/imp_auth.jar",
       "sha256": "PUT_REAL_SHA256_HERE",
       "required": true
-    }
+    },
      {
     "mod_id": "imp_banker",
     "file": "imp_banker.jar",
@@ -268,6 +268,13 @@
     "mod_id": "vtk_imp_salto_fixed",
     "file": "vtk_imp_salto_fixed.jar",
     "url": "https://raw.githubusercontent.com/bahalshik/improve-update/main/vtk_imp_salto_fixed.jar",
+    "sha256": "PUT_REAL_SHA256_HERE",
+    "required": true
+  },
+  {
+    "mod_id": "imp_weapon_setting",
+    "file": "imp_weapon_setting.jar",
+    "url": "https://raw.githubusercontent.com/bahalshik/improve-update/main/imp_weapon_setting.jar",
     "sha256": "PUT_REAL_SHA256_HERE",
     "required": true
   }
