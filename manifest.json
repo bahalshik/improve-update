@@ -20,9 +20,9 @@
       "required": true
     },
     {
-      "mod_id": "example_dependency",
-      "file": "example_dependency-1.0.0.jar",
-      "url": "https://cdn.example.com/mods/example_dependency-1.0.0.jar",
+      "mod_id": "vtk_imp_steel",
+      "file": "vtk_imp_steel.jar",
+      "url": "https://raw.githubusercontent.com/bahalshik/improve-update/main/vtk_imp_steel.jar",
       "sha256": "PUT_REAL_SHA256_HERE",
       "required": true
     }
