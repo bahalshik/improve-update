@@ -277,6 +277,14 @@
     "url": "https://raw.githubusercontent.com/bahalshik/improve-update/main/imp_weapon_setting.jar",
     "sha256": "PUT_REAL_SHA256_HERE",
     "required": true
+  },
+  {
+    "mod_id": "training_dummy",
+    "file": "training_dummy.jar",
+    "url": "https://raw.githubusercontent.com/bahalshik/improve-update/main/training_dummy.jar",
+    "sha256": "PUT_REAL_SHA256_HERE",
+    "required": true
   }
+    
   ]
 }
