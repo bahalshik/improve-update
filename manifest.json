@@ -1,0 +1,30 @@
+{
+  "project": "Improve",
+  "minecraft_version": "1.16.5",
+  "forge_version": "36.2.39",
+  "bootstrap_version": "0.1.0",
+  "modpack_version": "0.1.0",
+  "pack_protocol": 1,
+  "min_bootstrap_version": "0.1.0",
+  "maintenance": false,
+  "full_pack": {
+    "url": "https://cdn.example.com/packs/improve-pack-0.1.0.zip",
+    "sha256": "PUT_REAL_SHA256_HERE"
+  },
+  "mods": [
+    {
+      "mod_id": "improve_bootstrap",
+      "file": "improve_bootstrap-0.1.0.jar",
+      "url": "https://cdn.example.com/mods/improve_bootstrap-0.1.0.jar",
+      "sha256": "PUT_REAL_SHA256_HERE",
+      "required": true
+    },
+    {
+      "mod_id": "example_dependency",
+      "file": "example_dependency-1.0.0.jar",
+      "url": "https://cdn.example.com/mods/example_dependency-1.0.0.jar",
+      "sha256": "PUT_REAL_SHA256_HERE",
+      "required": true
+    }
+  ]
+}
