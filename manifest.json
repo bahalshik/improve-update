@@ -14,7 +14,7 @@
   "mods": [
     {
       "mod_id": "improve_bootstrap",
-      "file": "improve_bootstrap-0.1.0.jar",
+      "file": "improve_bootstrap.jar",
       "url": "https://cdn.example.com/mods/improve_bootstrap-0.1.0.jar",
       "sha256": "PUT_REAL_SHA256_HERE",
       "required": true
